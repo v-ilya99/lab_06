@@ -1,5 +1,5 @@
 #include <iostream>
-#include "picosha2.hpp"
+#include "picosha2.h"
 #include <thread>
 #include <stdio.h>
 #include <boost/log/trivial.hpp>
